@@ -6,7 +6,6 @@ This project allows users to set a daily calorie budget, add food and exercise e
 
 The entire application runs in the browser with no external libraries or frameworks.
 
----
 
 ## Live Demo
 
@@ -14,7 +13,6 @@ If deployed on GitHub Pages:
 
 [View Live App](https://itzsami.github.io/Calorie-Counter-/)
 
----
 
 ## Overview
 
@@ -28,7 +26,6 @@ The app separates concerns between:
 - Calculation logic
 - UI updates
 
----
 
 ## Features
 
@@ -45,7 +42,6 @@ The app separates concerns between:
 - Basic input validation (prevents invalid numeric formats)
 - Reset functionality to clear all entries
 
----
 
 ## How It Works
 
@@ -63,7 +59,6 @@ The app separates concerns between:
    - Calorie Deficit (green)
    - Calorie Surplus (red)
 
----
 
 ## Input Validation
 
@@ -73,7 +68,6 @@ The app includes:
 - Detection of invalid scientific notation formats (e.g., 1e5)
 - Error handling to prevent incorrect calculations
 
----
 
 ## Technologies Used
 
@@ -85,7 +79,6 @@ The app includes:
 
 No frameworks or external libraries were used.
 
----
 
 ## Project Structure
 .
@@ -94,7 +87,6 @@ No frameworks or external libraries were used.
 └── new.js
 
 
----
 
 ## Possible Improvements
 
@@ -104,7 +96,7 @@ No frameworks or external libraries were used.
 - Improve UI with animations
 - Add mobile-specific layout refinements
 
----
+
 
 ## Why This Project?
 
